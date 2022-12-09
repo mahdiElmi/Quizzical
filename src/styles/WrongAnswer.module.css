@@ -1,0 +1,4 @@
+.answers input[type="radio"]:checked+label {
+  background: #D6DBF5;
+  border: none;
+}
